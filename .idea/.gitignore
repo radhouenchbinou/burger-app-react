@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+../node_modules
+# Datasource local storage ignored files
+/../../../../../../../../../:\Nouveau dossier\cours\cours\udemy_maximillian\[FreeTutorials.Us] Udemy - React - The Complete Guide (incl Hooks, React Router, Redux)\8. A Real App The Burger Builder (Basic Version)\burger-basics--01-project-setup\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
